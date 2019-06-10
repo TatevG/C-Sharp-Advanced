@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Classes", "Classes\001_Classes.csproj", "{89718A11-F086-47CC-8FCC-A79DD07CA57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Properties", "002_Properties\002_Properties.csproj", "{7C8CE240-17D0-4340-9831-F6338C300F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89718A11-F086-47CC-8FCC-A79DD07CA57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89718A11-F086-47CC-8FCC-A79DD07CA57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89718A11-F086-47CC-8FCC-A79DD07CA57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89718A11-F086-47CC-8FCC-A79DD07CA57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8CE240-17D0-4340-9831-F6338C300F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8CE240-17D0-4340-9831-F6338C300F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8CE240-17D0-4340-9831-F6338C300F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8CE240-17D0-4340-9831-F6338C300F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
